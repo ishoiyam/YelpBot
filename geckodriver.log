@@ -39,3 +39,125 @@ JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage
 JavaScript error: https://www.yelp.com/, line 2789: TypeError: window.yelp.homepage is undefined
 1600638826297	Marionette	INFO	Stopped listening on port 43333
 JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1600639695485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXEIprn"
+1600639696569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600639696569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600639696570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600639696570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://29877c42-f528-4f52-985c-5137a576a0fd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600639700117	Marionette	INFO	Listening on port 35791
+1600639700212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2790: TypeError: window.yelp.homepage is undefined
+[Parent 11109, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600639829181	Marionette	INFO	Stopped listening on port 35791
+1600639831807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXnRePW"
+1600639833097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600639833100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600639833100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600639833101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://203bda36-8e84-420e-a978-edb1a3e7ba14/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600639837171	Marionette	INFO	Listening on port 46229
+1600639837233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2789: TypeError: window.yelp.homepage is undefined
+1600639917118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV91Ppe"
+1600639918698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600639918698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600639918699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600639918699	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1600639920087	Marionette	INFO	Stopped listening on port 46229
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6b25d27e-3bd9-4251-8726-ec9fad7f3f53/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600639923599	Marionette	INFO	Listening on port 46357
+1600639923645	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2789: TypeError: window.yelp.homepage is undefined
+1600640006652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4gYGFx"
+1600640008077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600640008077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600640008078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600640008078	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+[Parent 11729, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-esr-6uO2g7/firefox-esr-68.11.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1600640009619	Marionette	INFO	Stopped listening on port 46357
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://41f46245-eaf1-4a68-8fe7-3a5176a42b9f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600640012695	Marionette	INFO	Listening on port 33157
+1600640012775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2790: TypeError: window.yelp.homepage is undefined
+1600640077972	Marionette	INFO	Stopped listening on port 33157
+1600640105258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezTzpVk"
+1600640106500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600640106500	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600640106501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600640106501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8a42995c-f464-4136-8b9d-61b162ad362a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600640110703	Marionette	INFO	Listening on port 34133
+1600640110779	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2791: TypeError: window.yelp.homepage is undefined
+1600640158835	Marionette	INFO	Stopped listening on port 34133
+1600640372175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1UhjFm"
+1600640374176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600640374176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600640374177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600640374177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://7f4ca7fc-6bd2-45f3-9fc7-8fe05c2c545b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600640378992	Marionette	INFO	Listening on port 33183
+1600640379011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2791: TypeError: window.yelp.homepage is undefined
+1600640467507	Marionette	INFO	Stopped listening on port 33183
+1600640519843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoSXPox"
+1600640521159	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600640521160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600640521160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600640521160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3a8c3c6a-bd39-48dc-8fb1-bf96c03539a9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600640525677	Marionette	INFO	Listening on port 39055
+1600640525768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2717: TypeError: window.yelp.homepage is undefined
+1600640611408	Marionette	INFO	Stopped listening on port 39055
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600640923274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7aIbZL"
+1600640924447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1600640924448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1600640924448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1600640924448	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9cd28bc6-d93c-4548-ae23-a859522a8e7a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1600640928339	Marionette	INFO	Listening on port 39707
+1600640928398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3-media0.fl.yelpcdn.com/assets/public/module_homepage_main.yji-de819d93df2d0592ed4b.js, line 1: SyntaxError: invalid identity escape in regular expression
+JavaScript error: https://www.yelp.com/, line 2790: TypeError: window.yelp.homepage is undefined
+1600641032083	Marionette	INFO	Stopped listening on port 39707
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
